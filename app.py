@@ -7,11 +7,14 @@ Example:
     $ python app.py
 """
 import sys
+from typing import ItemsView
 import fire
 import questionary
 from pathlib import Path
 
-from qualifier.utils.fileio import load_csv
+from questionary import question
+
+from qualifier.utils.fileio import load_csv, save_csv
 
 from qualifier.utils.calculators import (
     calculate_monthly_debt_ratio,
@@ -109,7 +112,19 @@ def save_qualifying_loans(qualifying_loans):
         qualifying_loans (list of lists): The qualifying bank loans.
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
-    # YOUR CODE HERE!
+    # YOUR CODE HERE!    
+    csvpath = Path('qualifying_loans.csv')
+    save_csv(csvpath, qualifying_loans)
+    
+    #If there are no qualifing loans the system notifies user and exits
+#     if len(qualifying_loans) == 0:
+#         sys.exit("Sorry, you do not qualify for any loans")
+
+# #Asks if user if they want to save loans to a file. Exits system if not.
+#     save_loans = questionary.confirm("Would you like to save the list of loans to a file?").ask()
+#     if save_loans == False:
+#         sys.exit("Thank you. Goodbye.")
+
 
 
 def run():
