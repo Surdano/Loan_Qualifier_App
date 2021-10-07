@@ -1,6 +1,11 @@
 # Loan Qualifier Application
 
-This is a python command-line interface application that allows users to see qualifying loans from lenders quickly and easily. The application works by taking in a `daily_rate_sheet` of loan criteria from various loan providers, asking the user a number of questions to evaluate their loan eligibility, and then returning to them a list of qualifying loans. It also asks if the user wishes to save the list of qualifying loans.
+![A scale, with a bag of money named loan on one side and a image of a house on the other.](https://assets.telegraphindia.com/telegraph/2021/Sep/1631050353_shutterstock_1219076071.jpg)
+ 
+---
+## What it does
+
+This is a python command-line-interface(CLI) that allows users to see qualifying loans from lenders quickly and easily. The application works by taking in a `daily_rate_sheet` of loan criteria from various loan providers, asking the user a number of questions to evaluate their loan eligibility, and then returning to them a list of qualifying loans. It also asks if the user wishes to save the returned list of qualifying loans.
 
 ---
 
@@ -35,16 +40,17 @@ python app.py
 
 Upon launching the loan qualifier application you will be greeted with the following prompts.
 
-#########################  ADD screen shot of app #############################
+![Screen shot of promts with examples as enrties](https://user-images.githubusercontent.com/89755088/136319694-5f0d1290-b696-4d9b-bd2d-298eac9d56da.png) 
+
 
 
 ---
 
 ## Contributors
 
-This code was created from the Loan Qualifier code © 2020 - 2021 Trilogy Education Services, a 2U, Inc. brand. 
+This code was created from © 2020 - 2021 Trilogy Education Services, a 2U, Inc. brand. 
 
-Additional code was added for usability by Thomas Leahy, thomasleahy6@gmail.com
+Additional code was added for applicationusability by Thomas Leahy, thomasleahy6@gmail.com
 
 ---
 
@@ -52,4 +58,4 @@ Additional code was added for usability by Thomas Leahy, thomasleahy6@gmail.com
 
 MIT Licence
 
-© 2021 Thomas Leahy
+2021 Thomas Leahy
