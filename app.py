@@ -6,13 +6,10 @@ This is a command line application to match applicants with qualifying loans.
 Example:
     $ python app.py
 """
-import sys
-from typing import ItemsView
+import sys 
 import fire
 import questionary
 from pathlib import Path
-
-from questionary import question
 
 from qualifier.utils.fileio import load_csv, save_csv
 
@@ -111,22 +108,33 @@ def save_qualifying_loans(qualifying_loans):
     Args:
         qualifying_loans (list of lists): The qualifying bank loans.
     """
-    # @TODO: Complete the usability dialog for savings the CSV Files.
-    # YOUR CODE HERE!    
-    csvpath = Path('qualifying_loans.csv')
-    save_csv(csvpath, qualifying_loans)
+## Usability dialog for savings the CSV Files.
     
-    #If there are no qualifing loans the system notifies user and exits
-#     if len(qualifying_loans) == 0:
-#         sys.exit("Sorry, you do not qualify for any loans")
+    # Exits the system if no there are no qualifying loans available
+    if len(qualifying_loans) == 0:
+        sys.exit("Sorry, you do not qualify for any loans.")
 
-# #Asks if user if they want to save loans to a file. Exits system if not.
-#     save_loans = questionary.confirm("Would you like to save the list of loans to a file?").ask()
-#     if save_loans == False:
-#         sys.exit("Thank you. Goodbye.")
+    # Asks if user if they want to save loans to a file. Exits system if not.
+    save_loans_csv = questionary.confirm("Would you like to save the list of loans to a file?").ask()
+    if save_loans_csv == False:
+        sys.exit("Loans not saved. Thank you, goodbye.")
 
+    # Asks user where to save.
+    csvpath = questionary.text("To save, enter the output file path (.csv).").ask()
+    saved_csv = Path(csvpath).parents[0]
 
-
+    # Asks if folder exists and if not to create folder and save.
+    if not saved_csv.exists():
+        saved_csv_query = questionary.confirm(f"Folder {saved_csv} does not exist. Would like like to create and save the new folder?").ask()
+        if saved_csv_query == False:
+            sys.exit("Loans not saved. Thank you, goodbye.")
+        Path.mkdir(saved_csv)
+    
+    # Saves file and returns save message to user
+    csvpath = Path(csvpath)
+    save_csv(csvpath, qualifying_loans)
+    print(f"Your qualifying loans have been saved to {csvpath}")
+    
 def run():
     """The main function for running the script."""
 
