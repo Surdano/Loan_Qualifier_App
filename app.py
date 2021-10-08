@@ -35,7 +35,7 @@ def load_bank_data():
     csvpath = Path(csvpath)
     if not csvpath.exists():
         sys.exit(f"Oops! Can't find this path: {csvpath}")
-
+    
     return load_csv(csvpath)
 
 
@@ -110,16 +110,16 @@ def save_qualifying_loans(qualifying_loans):
     """
 ## Usability dialog for savings the CSV Files.
     
-    # Exits the system if no there are no qualifying loans available
+    # Exits the system and returns message if no there are no qualifying loans available
     if len(qualifying_loans) == 0:
         sys.exit("Sorry, you do not qualify for any loans.")
 
-    # Asks if user if they want to save loans to a file. Exits system if not.
+    # Asks the user if they want to save the qualified loans to a file. Exits system if not.
     save_loans_csv = questionary.confirm("Would you like to save the list of loans to a file?").ask()
     if save_loans_csv == False:
         sys.exit("Loans not saved. Thank you, goodbye.")
 
-    # Asks user where to save.
+    # Asks user what output file path to save to.
     csvpath = questionary.text("To save, enter the output file path (.csv).").ask()
     saved_csv = Path(csvpath).parents[0]
 
