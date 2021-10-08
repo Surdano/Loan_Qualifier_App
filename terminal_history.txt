@@ -1,0 +1,991 @@
+   50  /usr/bin/python3 "/Users/thomas/Desktop/FinTech_Homework/Python_Project/def scream():.py"
+   51  /usr/bin/python3 "/Users/thomas/Desktop/FinTech_Homework/Python_Project/def scream():.py"
+   52  /usr/bin/python3 "/Users/thomas/Desktop/FinTech_Homework/Python_Project/def scream():.py"
+   53   /usr/bin/env /usr/bin/python3 /Users/thomas/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 57728 -- "/Users/thomas/Desktop/FinTech_Homework/Python_Project/words = [\"cool, \"awesome!\", \"why am I .py" 
+   54   /usr/bin/env /usr/bin/python3 /Users/thomas/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 57747 -- "/Users/thomas/Desktop/FinTech_Homework/Python_Project/words = [\"cool, \"awesome!\", \"why am I .py" 
+   55   cd /Users/thomas/Desktop/FinTech_Homework/Python_Project/03_Split_Second_Homebuying_Part_2 ; /usr/bin/env /usr/bin/python3 /Users/thomas/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 57763 -- "/Users/thomas/Desktop/FinTech_Homework/Python_Project/words = [\"cool, \"awesome!\", \"why am I .py" 
+   56   cd /Users/thomas/Desktop/FinTech_Homework/Python_Project/03_Split_Second_Homebuying_Part_2 ; /usr/bin/env /usr/bin/python3 /Users/thomas/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 57767 -- "/Users/thomas/Desktop/FinTech_Homework/Python_Project/words = [\"cool, \"awesome!\", \"why am I .py" 
+   57   /usr/bin/env /usr/bin/python3 /Users/thomas/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 57879 -- "/Users/thomas/Desktop/FinTech_Homework/Python_Project/def scream():.py" 
+   58   /usr/bin/env /usr/bin/python3 /Users/thomas/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 58580 -- /Users/thomas/Desktop/FinTech_Classwork/Class_1_Activities/05_Ins_Dictionaries/Unsolved/dicts.py 
+   59  /usr/bin/python3 /Users/thomas/Desktop/FinTech_Homework/Python_Project/01_Racking_Up_The_Profit/Solved/racking_up_the_profit.py
+   60  cd /Users/thomas/Desktop/FinTech_Homework
+   61  cd conditional_logic.py
+   62  cd conditional_logic.py
+   63  cd python_project
+   64  cd conditional_logic.py
+   65  conda activate dev
+   66  python conditional_logic.py
+   67  python python conditional_logic.py
+   68  python conditional_logic.py
+   69  python conditional_logic.py
+   70  python conditional_logic.py
+   71  python conditional_logic.py
+   72  cd ~
+   73  cd /Users/thomas/Desktop/FinTech_Homework/Python_Project/01_Conditional_Statement
+   74  cd Unsolved
+   75  python conditional_statement.py
+   76  python conditional_statement.py
+   77  python conditional_statement.py
+   78  python conditional_statement.py
+   79  python conditional_statement.py
+   80  python conditional_statement.py
+   81  python conditional_statement.py
+   82  python conditional_statement.py
+   83  cd ~
+   84  /Users/thomas/Desktop/FinTech_Homework/Python_Project/02_Nested_Conditionals
+   85  cd Unsolved
+   86  cd /Users/thomas/Desktop/FinTech_Homework/Python_Project/02_Nested_Conditionals
+   87  cd Unsolved
+   88  python nested_condistionals.py
+   89  python nested_conditionals.py
+   90  python nested_conditionals.py
+   91  python nested_conditionals.py
+   92  python nested_conditionals.py
+   93  python nested_conditionals.py
+   94  python nested_conditionals.py
+   95  python nested_conditionals.py
+   96  python nested_conditionals.py
+   97  python nested_conditionals.py
+   98  python nested_conditionals.py
+   99  cd ~
+  100  cd /Users/thomas/Desktop/FinTech_Homework/Python_Project/03_Split_Second_Homebuying/Unsolved
+  101  python split_second_homebuying.py
+  102  python split_second_homebuying.py
+  103  python split_second_homebuying.py
+  104  python split_second_homebuying.py
+  105  python split_second_homebuying.py
+  106  python split_second_homebuying.py
+  107  python split_second_homebuying.py
+  108  python split_second_homebuying.py
+  109  python split_second_homebuying.py
+  110  python split_second_homebuying.py
+  111  python split_second_homebuying.py
+  112  python split_second_homebuying.py
+  113  python split_second_homebuying.py
+  114  python split_second_homebuying.py
+  115  python split_second_homebuying.py
+  116  python split_second_homebuying.py
+  117  python split_second_homebuying.py
+  118   python split_second_homebuying.py
+  119  python split_second_homebuying.py
+  120  python split_second_homebuying.py
+  121  python split_second_homebuying.py
+  122  python split_second_homebuying.py
+  123  cd ..
+  124  cd ..
+  125  cd ~
+  126  cd /Users/thomas/Desktop/FinTech_Homework/Python_Project/01_A_Definitive_Buy/Unsolved
+  127  python a_definitive_buy.py
+  128  python a_definitive_buy.py
+  129  cd ~
+  130  cd /Users/thomas/Desktop/FinTech_Homework/Python_Project/02_Returned_Goods/Unsolved
+  131  python retuned_goods.py
+  132  python returned_goods.py
+  133  python returned_goods.py
+  134  python returned_goods.py
+  135  python returned_goods.py
+  136  python returned_goods.py
+  137  python returned_goods.py
+  138  python returned_goods.py
+  139  python returned_goods.py
+  140  python returned_goods.py
+  141  python returned_goods.py
+  142  python returned_goods.py
+  143  python returned_goods.py
+  144  python returned_goods.py
+  145  python returned_goods.py
+  146  python returned_goods.py
+  147  python returned_goods.py
+  148  python returned_goods.py
+  149  python returned_goods.py
+  150  python returned_goods.py
+  151  cd ~
+  152  cd /Users/thomas/Desktop/FinTech_Homework/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved
+  153  python split_second_part_2.py
+  154  python split_second_part_2.py
+  155  python split_second_part_2.py
+  156  python split_second_part_2.py
+  157  python split_second_part_2.py
+  158  python split_second_part_2.py
+  159  python split_second_part_2.py
+  160  python split_second_part_2.py
+  161  python split_second_part_2.py
+  162  python split_second_part_2.py
+  163  python split_second_part_2.py
+  164  python split_second_part_2.py
+  165  python split_second_part_2.py
+  166  python split_second_part_2.py
+  167  python split_second_part_2.py
+  168  python split_second_part_2.py
+  169  cd ~
+  170  cd /Users/thomas/Desktop/FinTech_Homework/Python_Project/01_Racking_Up_The_Profit/Unsolved
+  171  python racking_up_the_profit.py
+  172  python racking_up_the_profit.py
+  173  python racking_up_the_profit.py
+  174  python racking_up_the_profit.py
+  175  python racking_up_the_profit.py
+  176  python racking_up_the_profit.py
+  177  python racking_up_the_profit.py
+  178  python racking_up_the_profit.py
+  179  python racking_up_the_profit.py
+  180  cd ~
+  181  cd /Users/thomas/Desktop/FinTech_Classwork/Class_1_Activities/05_Ins_Dictionaries/Solved
+  182  python dists.py
+  183  python dicts.py
+  184  python dicts.py
+  185  python dicts.py
+  186  python dicts.py
+  187  python dicts.py
+  188  python dicts.py
+  189  cd ~
+  190  cd /Users/thomas/Desktop/FinTech_Classwork/Class_1_Activities/05_Ins_Dictionaries/Unsolved
+  191  python dicts.py
+  192  cd ~
+  193  cd /Users/thomas/Desktop/FinTech_Classwork/Class_2_Activities/04_Ins_Conditionals/Solved
+  194  python conditionals.py
+  195  python conditionals.py\n
+  196  python conditionals.py\n
+  197  python conditionals.py\n
+  198  python conditionals.py\n
+  199  python conditionals.py\n
+  200  python conditionals.py\n
+  201  python conditionals.py\n
+  202  cd ..
+  203  cd ..
+  204  cd 05_Stu_Conditionals
+  205  cd Unsolved
+  206  cd ..
+  207  cd ..
+  208  ls
+  209  cd 08_Ins_Loops
+  210  ls
+  211  cd Unsolved\n
+  212  python loops.py
+  213  python loops.py
+  214  cd ..
+  215  cd Solved
+  216  python loops.py
+  217  cd ..
+  218  cd ..
+  219  ls
+  220  cd 09_Stu_Loops
+  221  cd Unsolved
+  222  python loops.py
+  223  python loops.py
+  224  python loops.py
+  225  python loops.py
+  226  python loop.py
+  227  python loops.py
+  228  python loops.py
+  229  python loops.py
+  230  cd ~
+  231  cd /Users/thomas/Desktop/FinTech_Homework/Python_Project/01_Racking_Up_The_Profit/Unsolved
+  232  python racking_up_the_profits.py
+  233  python racking_up_the_profit.py
+  234  cd ~
+  235  cd /Users/thomas/Desktop/FinTech_Homework/Python_Project/02_Pathways_to_Success_Part_1/Unsolved
+  236  python pathways_to_success.py
+  237  python pathways_to_success.py
+  238  cd ~
+  239  cd /Users/thomas/Desktop/FinTech_Homework/Python_Project/03_Pathways_to_Success_Part_2/Unsolved
+  240  python pathways_to_success_part_2.py
+  241  python pathways_to_success_part_2.py
+  242  python pathways_to_success_part_2.py
+  243  python pathways_to_success_part_2.py
+  244  cd ~
+  245  conda deactivate
+  246   /usr/bin/env /usr/bin/python3 /Users/thomas/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64513 -- /Users/thomas/Desktop/FinTech_Homework/Python_Project/03_Pathways_to_Success_Part_2/Solved/pathways_to_success_part_2.py 
+  247   /usr/bin/env /usr/bin/python3 /Users/thomas/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 64521 -- /Users/thomas/Desktop/FinTech_Homework/Python_Project/03_Pathways_to_Success_Part_2/Solved/pathways_to_success_part_2.py 
+  248  /usr/bin/python3 /Users/thomas/Desktop/FinTech_Homework/Python_Project/03_Pathways_to_Success_Part_2/Solved/pathways_to_success_part_2.py
+  249  /usr/bin/python3 /Users/thomas/Desktop/FinTech_Homework/Python_Project/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  250   /usr/bin/env /usr/bin/python3 /Users/thomas/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50012 -- /Users/thomas/Desktop/FinTech_Classwork/Class_2_Activities/07_Stu_Functions/Solved/functions.py 
+  251  cd /Users/thomas/Desktop/FinTech_Homework/Python_Project/03_Pathways_to_Success_Part_2/Unsolved
+  252  activate conda ddev
+  253  activate conda dev
+  254  activate conda sev
+  255  activate conda dev
+  256  conda activate dev
+  257  python pathways_to_success_part_2.py
+  258  python pathways_to_success_part_2.py
+  259  python pathways_to_success_part_2.py
+  260  python pathways_to_success_part_2.py
+  261  cd ~
+  262  cd /Users/thomas/Desktop/FinTech_Homework/Python_Project/04_Automating_Equity_Rounds/Unsolved
+  263  ls
+  264  automated_equity_rounds.py
+  265  python automated_equity_rounds.py
+  266  python automated_equity_rounds.py
+  267  cd ..
+  268  cd ..
+  269  cd ..
+  270  cd ..
+  271  lc
+  272  ls
+  273  cd FinTech Challenges
+  274  ls
+  275  cd FinTech_Challenges
+  276  cd loan_analyzer.py
+  277  cd Starter_codes
+  278  ls
+  279  cd Starter_Code
+  280  cd loan_analyzer.py
+  281  cd loan_analyzer.py
+  282  lc
+  283  ls
+  284  cd loan_analyzer.py
+  285  cd loan_analyzer.py
+  286  cd loan_analyzer.py
+  287  python loan_analyzer.py
+  288  python loan_analyzer.py
+  289  python loan_analyzer.py
+  290  python loan_analyzer.py
+  291  python loan_analyzer.py
+  292  python loan_analyzer.py
+  293  python loan_analyzer.py
+  294  python loan_analyzer.py
+  295  python loan_analyzer.py
+  296  python loan_analyzer.py
+  297  python loan_analyzer.py
+  298  python loan_analyzer.py
+  299  python loan_analyzer.py
+  300  python loan_analyzer.py
+  301  python loan_analyzer.py
+  302  python loan_analyzer.py
+  303  python loan_analyzer.py
+  304  python loan_analyzer.py
+  305  python loan_analyzer.py
+  306  python loan_analyzer.py
+  307  python loan_analyzer.py
+  308  python loan_analyzer.py
+  309  python loan_analyzer.py
+  310  python loan_analyzer.py
+  311  python loan_analyzer.py
+  312  python loan_analyzer.py
+  313  python loan_analyzer.py
+  314  cd ~
+  315  conda deactivate
+  316  cd /Users/thomas/Desktop/FinTech_Challenges/Starter_Code
+  317  conda activate dev
+  318  python loan_anylyzer.py
+  319  python loan_analyzer.py
+  320  python loan_analyzer.py
+  321  python loan_analyzer.py
+  322  python loan_analyzer.py
+  323  python loan_analyzer.py
+  324  conda deactivate
+  325  cd /Users/thomas/Desktop/FinTech_Challenges/Starter_Code
+  326  conda activate dev
+  327  python loan_analyzer.py
+  328  python loan_analyzer.py
+  329  python loan_analyzer.py
+  330  python loan_analyzer.py
+  331  python loan_analyzer.py
+  332  cd ~
+  333  conda deactivate
+  334  /usr/bin/python3 /Users/thomas/Desktop/FinTech_Classwork/Class_2_Activities/09_Stu_Loops/Solved/loops.py
+  335  cd /Users/thomas/Desktop/FinTech_Challenges/Starter_Code
+  336  conda activate dev
+  337  python loan_analyzer.py
+  338  /Users/thomas/Desktop/FinTech_Challenges/Starter_Code
+  339  python loan_analyzer.py
+  340  python loan_analyzer.py
+  341  python loan_analyzer.py
+  342  python loan_analyzer.py
+  343  python loan_analyzer.py
+  344   File "loan_analyzer.py", line 16python loan_analyzer.pypython loan_analyzer.pypython loan_analyzer.pypython loan_analyzer.pyvfdvfdvpython loan_analyzer.pyvefvev
+  345  python loan_analyzer.py
+  346  python loan_analyzer.py
+  347  python loan_analyzer.py
+  348  python loan_analyzer.py
+  349  python loan_analyzer.py
+  350  python loan_analyzer.py
+  351  python loan_analyzer.py
+  352  python loan_analyzer.py
+  353  python loan_analyzer.py
+  354  python loan_analyzer.py
+  355  python loan_analyzer.py
+  356  python loan_analyzer.py
+  357  python loan_analyzer.py
+  358  python loan_analyzer.py
+  359  python loan_analyzer.py
+  360  python loan_analyzer.py
+  361  python loan_analyzer.py
+  362  python loan_analyzer.py
+  363  python loan_analyzer.py
+  364  python loan_analyzer.py
+  365  python loan_analyzer.py
+  366  python loan_analyzer.py
+  367  python loan_analyzer.py
+  368  python loan_analyzer.py
+  369  python loan_analyzer.py
+  370  python loan_analyzer.py
+  371  cd ~
+  372  conda deactivate
+  373  cd /Users/thomas/Desktop/FinTech_Challenges/Starter_Code
+  374  conda activate dev
+  375  python loan_analyzer.py
+  376  python loan_analyzer.py
+  377  python loan_analyzer.py
+  378  python loan_analyzer.py
+  379  python loan_analyzer.py
+  380  python loan_analyzer.py
+  381  python loan_analyzer.py
+  382  python loan_analyzer.py
+  383  python loan_analyzer.py
+  384  python loan_analyzer.py       
+  385  python loan_analyzer.py       
+  386  python loan_analyzer.py       
+  387  python loan_analyzer.py       
+  388  python loan_analyzer.py       
+  389  python loan_analyzer.py       
+  390  python loan_analyzer.py       
+  391  python loan_analyzer.py       
+  392  python loan_analyzer.py       
+  393  python loan_analyzer.py       
+  394  python loan_analyzer.py       
+  395  python loan_analyzer.py       
+  396  python loan_analyzer.py       
+  397  python loan_analyzer.py       
+  398  python loan_analyzer.py       
+  399  python loan_analyzer.py       
+  400  python loan_analyzer.py       
+  401  python loan_analyzer.py       
+  402  python loan_analyzer.py       
+  403  python loan_analyzer.py       
+  404  python loan_analyzer.py       
+  405  python loan_analyzer.py       
+  406  python loan_analyzer.py       
+  407  python loan_analyzer.py       
+  408  python loan_analyzer.py       
+  409  python loan_analyzer.py       
+  410  python loan_analyzer.py       
+  411  python loan_analyzer.py       
+  412  python loan_analyzer.py       
+  413  python loan_analyzer.py       
+  414  python loan_analyzer.py       
+  415  python loan_analyzer.py       
+  416  python loan_analyzer.py       
+  417  python loan_analyzer.py       
+  418  python loan_analyzer.py       
+  419  python loan_analyzer.py       
+  420  python loan_analyzer.py       
+  421  python loan_analyzer.py       
+  422  python loan_analyzer.py       
+  423  python loan_analyzer.py       
+  424  python loan_analyzer.py       
+  425  python loan_analyzer.py       
+  426  python loan_analyzer.py       
+  427  python loan_analyzer.py       
+  428  python loan_analyzer.py       
+  429  python loan_analyzer.py       
+  430  python loan_analyzer.py       
+  431  python loan_analyzer.py       
+  432  python loan_analyzer.py       
+  433  python loan_analyzer.py       
+  434  python loan_analyzer.py       
+  435  python loan_analyzer.py       
+  436  python loan_analyzer.py       
+  437  python loan_analyzer.py       
+  438  python loan_analyzer.py       
+  439  python loan_analyzer.py       
+  440  python loan_analyzer.py       
+  441  python loan_analyzer.py       
+  442  python loan_analyzer.py       
+  443  python loan_analyzer.py       
+  444  python loan_analyzer.py       
+  445  python loan_analyzer.py       
+  446  python loan_analyzer.py       
+  447  python loan_analyzer.py       
+  448  python loan_analyzer.py       
+  449  python loan_analyzer.py       
+  450  python loan_analyzer.py       
+  451  python loan_analyzer.py       
+  452  python loan_analyzer.py       
+  453  python loan_analyzer.py       
+  454  python loan_analyzer.py       
+  455  python loan_analyzer.py       
+  456  python loan_analyzer.py       
+  457  python loan_analyzer.py       
+  458  python loan_analyzer.py       
+  459  python loan_analyzer.py       
+  460  python loan_analyzer.py       
+  461  python loan_analyzer.py       
+  462  python loan_analyzer.py
+  463  python loan_analyzer.py
+  464  python loan_analyzer.py
+  465  python loan_analyzer.py
+  466  python loan_analyzer.py
+  467  python loan_analyzer.py
+  468  python loan_analyzer.py
+  469  python loan_analyzer.py
+  470  loan_number = 1\nfor loan in inexpensive_loans:\n    if loan["repayment_interval"] == "bullet":\n        print(f"{loan_number}. A loan for" + (loan["loan_price"]) + "maturing in" + str(loan["remaining_months"]) + "months with a future value of" + (loan["future_value"]) + "to be paid in full at maturity.")\n    elif loan["repayment_interval"] == "monthly":\n        print(f"{loan_number}. A loan for " + (loan["loan_price"]) + " maturing in " + str(loan["remaining_months"]) + " months with a future value of " + (loan["future_value"]) + " to be paid monthly.")\n    loan_nu
+  471  python laon_analyzer.py
+  472  python loan_analyzer.py
+  473  python loan_analyzer.py
+  474  python loan_analyzer.py
+  475  python loan_analyzer.py
+  476  python loan_analyzer.py
+  477  python loan_analyzer.py
+  478  python loan_analyzer.py
+  479  python loan_analyzer.py
+  480  python loan_analyzer.py
+  481  cd ~
+  482  conda deactivate
+  483  /usr/bin/python3 /Users/thomas/Desktop/loans.py
+  484  /usr/bin/python3 /Users/thomas/Desktop/loans.py
+  485  /usr/bin/python3 /Users/thomas/Desktop/loans.py
+  486  /usr/bin/python3 /Users/thomas/Desktop/loans.py
+  487  /usr/bin/python3 /Users/thomas/Desktop/loans.py
+  488  /usr/bin/python3 /Users/thomas/Desktop/loans.py
+  489  /usr/bin/python3 /Users/thomas/Desktop/loans.py
+  490  /usr/bin/python3 /Users/thomas/Desktop/loans.py
+  491  /usr/bin/python3 /Users/thomas/Desktop/loans.py
+  492  /usr/bin/python3 /Users/thomas/Desktop/loans.py
+  493  /usr/bin/python3 /Users/thomas/Desktop/loans.py
+  494  /usr/bin/python3 /Users/thomas/Desktop/loans.py
+  495  /usr/bin/python3 /Users/thomas/Desktop/loans.py
+  496  /usr/bin/python3 /Users/thomas/Desktop/loans.py
+  497  /usr/bin/python3 /Users/thomas/Desktop/loans.py
+  498  /usr/bin/python3 /Users/thomas/Desktop/loans.py
+  499  /usr/bin/python3 /Users/thomas/Desktop/loans.py
+  500  /usr/bin/python3 /Users/thomas/Desktop/loans.py
+  501  /usr/bin/python3 /Users/thomas/Desktop/loans.py
+  502  /usr/bin/python3 /Users/thomas/Desktop/loans.py
+  503  /usr/bin/python3 /Users/thomas/Desktop/loans.py
+  504  /usr/bin/python3 /Users/thomas/Desktop/loans.py
+  505  /usr/bin/python3 /Users/thomas/Desktop/loans.py
+  506  /usr/bin/python3 /Users/thomas/Desktop/loans.py
+  507  /usr/bin/python3 /Users/thomas/Desktop/loans.py
+  508  /usr/bin/python3 /Users/thomas/Desktop/loans.py
+  509  /usr/bin/python3 /Users/thomas/Desktop/loans.py
+  510  /usr/bin/python3
+  511  /usr/bin/python3 /Users/thomas/Desktop/FinTech_Classwork/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/01-Financial-Programming-Python/1/Activities/01_Ins_Variables/Unsolved/variables.py
+  512  /usr/bin/python3 /Users/thomas/Desktop/FinTech_Classwork/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/01-Financial-Programming-Python/1/Activities/01_Ins_Variables/Unsolved/variables.py
+  513  /usr/bin/python3 "/Users/thomas/Desktop/FinTech_Classwork/Class_4_Activities 1/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  514  /usr/bin/python3 "/Users/thomas/Desktop/FinTech_Classwork/Class_4_Activities 1/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  515  /usr/bin/python3 "/Users/thomas/Desktop/FinTech_Classwork/Class_4_Activities 1/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py"
+  516  cd desktop
+  517  cd FinTech_Classwork
+  518  clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  519  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  520  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  521  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  522  cd ~
+  523  cd /Users/thomas/Desktop/FinTech_Classwork/Class_4_Activities 1/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved
+  524  cd /Users/thomas/Desktop/FinTech_Classwork/Class_4_Activities 1/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved
+  525  cd desktop
+  526  cd FinTech_Classwork
+  527  cd Class_4_Activities1
+  528  cd Class_4_Acticities1
+  529  cd classwork_4_activities_1
+  530  cd Class_4_Activities_1
+  531  conda activate dev
+  532  pip -V
+  533  pip freeze
+  534  pip install fire
+  535  pip install questionary
+  536  cd /Users/thomas/Desktop/FinTech_Homework/Python_Project/01_Loan_Qualifier_Financial_Calculations/Unsolved
+  537  python app.py
+  538  python app.py
+  539  python app.py
+  540  cd ..
+  541  cd ..
+  542  cd 02_Loan_Qualifier_Filtering_Data
+  543  cd Unsolved
+  544  python app.py
+  545  python app.py
+  546  python app.py
+  547  cd ..
+  548  ls
+  549  cd Unsolved
+  550  ls
+  551  python app.py
+  552  python app.py
+  553  cd ~
+  554  conda deactivate
+  555  python
+  556  conda activate dev
+  557  cd /Users/thomas/Desktop/FinTech_Classwork/Class_4_Activities_1/03_Inst_ATM_Application_Logic
+  558  cd Unsolved
+  559  atm.py
+  560  ls
+  561  python atm.py
+  562  python atm.py
+  563  python atm.py
+  564  python atm.py
+  565  python atm.py
+  566  python atm.py
+  567  python atm.py
+  568  cd ..
+  569  cd ..
+  570  cd ~
+  571  cd /Users/thomas/Desktop/FinTech_Classwork/Class_4_Activities_2/01_Ins_ATM_Application/Unsolved
+  572  install questionary
+  573  import questionary
+  574  cd ~
+  575  conda deactivate
+  576  install questionary
+  577  install pytest
+  578  python install questionary
+  579  pip install questionary
+  580  pip install pytest
+  581  git status
+  582  conda deactivate
+  583  /usr/bin/python3 /Users/thomas/Desktop/cli.py
+  584  /usr/bin/python3 /Users/thomas/Desktop/cli.py
+  585  /usr/bin/python3 /Users/thomas/Desktop/cli.py
+  586  /usr/bin/python3 /Users/thomas/Desktop/cli.py
+  587  /usr/bin/python3 /Users/thomas/Desktop/cli.py
+  588  /usr/bin/python3 /Users/thomas/Desktop/cli.py
+  589  /usr/bin/python3 /Users/thomas/Desktop/cli.py
+  590  /Users/thomas/opt/anaconda3/envs/dev/bin/python /Users/thomas/Desktop/cli.py
+  591  source /Users/thomas/opt/anaconda3/bin/activate
+  592  conda activate dev
+  593  /Users/thomas/opt/anaconda3/envs/dev/bin/python /Users/thomas/Desktop/cli.py
+  594  /Users/thomas/opt/anaconda3/envs/dev/bin/python /Users/thomas/Desktop/cli.py
+  595  /Users/thomas/opt/anaconda3/envs/dev/bin/python /Users/thomas/Desktop/cli.py
+  596  /Users/thomas/opt/anaconda3/envs/dev/bin/python /Users/thomas/Desktop/cli.py
+  597  /Users/thomas/opt/anaconda3/envs/dev/bin/python /Users/thomas/Desktop/cli.py
+  598  /Users/thomas/opt/anaconda3/envs/dev/bin/python /Users/thomas/Desktop/cli.py
+  599  source /Users/thomas/opt/anaconda3/bin/activate
+  600  conda activate dev
+  601  /Users/thomas/opt/anaconda3/envs/dev/bin/python /Users/thomas/Desktop/FinTech_Homework/Python_Project/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  602  source /Users/thomas/opt/anaconda3/bin/activate
+  603  conda activate dev
+  604  /Users/thomas/opt/anaconda3/envs/dev/bin/python /Users/thomas/Desktop/FinTech_Homework/Python_Project/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  605  source /Users/thomas/opt/anaconda3/bin/activate
+  606  conda activate dev
+  607  /Users/thomas/opt/anaconda3/envs/dev/bin/python /Users/thomas/Desktop/FinTech_Homework/Python_Project/01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py
+  608  pwd
+  609  import fire
+  610  pip help
+  611  import fire
+  612  import random
+  613  conda activate dev
+  614  import fire
+  615  pip import fire
+  616  import random
+  617  pip install fire
+  618  pip install fire
+  619  fire --V
+  620  pip fire -V
+  621  pip help
+  622  pip check fire
+  623  pip download fire
+  624  pip update fire
+  625  pip -verison fire
+  626  --version fire
+  627  pip --version fire
+  628  conda install fire -c conda-forge
+  629  pip --version fire
+  630  pip requirements fire
+  631  pip help fire
+  632  pip help
+  633  pip install fire
+  634  pip import fire
+  635  pipv update fire
+  636  cd desktop
+  637  ls
+  638  python cli.py
+  639  python cli.py --pants=True
+  640  python cli.py --pants=True
+  641  cd ..
+  642  cd /Users/thomas/Desktop/FinTech_Homework/Python_Project/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved
+  643  python app.py
+  644  python app.py
+  645  python app.py --credit_score=750
+  646  python app.py --credit_score=750
+  647  python app.py --credit_score=750
+  648  cd ~
+  649  conda deactivate
+  650  python -version
+  651  python version
+  652  conda -version
+  653  python --version
+  654  cd desktop
+  655  ls
+  656  cd FinTech_Homework
+  657  ls
+  658  cd Python_Project
+  659  ls
+  660  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  661  ls
+  662  cd Unsolved
+  663  ls
+  664  python app.py
+  665  ls
+  666  python app.py
+  667  python version
+  668  python app.py
+  669  python app.py
+  670  conda activate dev
+  671  python app.py
+  672  python app.py --credit_score=750
+  673  app.py --help
+  674  python app.py --credit_score=750
+  675  python app.py
+  676  ls
+  677  python app.py
+  678  python app.py
+  679  python app.py
+  680  xk
+  681  ck
+  682  cd /Users/thomas/Desktop/FinTech_Homework/Python_Project/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved
+  683  conda activate dev
+  684  python app.py
+  685  python app.py
+  686  python app.py --credit_score=750
+  687  python app.py
+  688  source /Users/thomas/opt/anaconda3/bin/activate
+  689  conda activate dev
+  690  /Users/thomas/opt/anaconda3/envs/dev/bin/python /Users/thomas/Desktop/FinTech_Homework/Python_Project/01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py
+  691  python app.py credit_score=750
+  692  source /Users/thomas/opt/anaconda3/bin/activate
+  693  conda activate base
+  694   /usr/bin/env /Users/thomas/opt/anaconda3/bin/python /Users/thomas/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 61321 -- /Users/thomas/Desktop/FinTech_Homework/Python_Project/01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py 
+  695  source /Users/thomas/opt/anaconda3/bin/activate
+  696  conda activate base
+  697  /Users/thomas/opt/anaconda3/bin/python /Users/thomas/Desktop/FinTech_Homework/Python_Project/01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py
+  698  pip import fire
+  699  pip install fire
+  700  source /Users/thomas/opt/anaconda3/bin/activate
+  701  conda activate base
+  702  source /Users/thomas/opt/anaconda3/bin/activate
+  703  conda activate base
+  704  conda activate dev
+  705  pip install fire
+  706  source /Users/thomas/opt/anaconda3/bin/activate
+  707  conda activate base
+  708  /Users/thomas/opt/anaconda3/bin/python /Users/thomas/Desktop/FinTech_Homework/Python_Project/01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py
+  709  /Users/thomas/opt/anaconda3/bin/python /Users/thomas/Desktop/FinTech_Homework/Python_Project/01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py
+  710  conda deactivate
+  711  conda activate dev
+  712  cd /Users/thomas/Desktop/FinTech_Homework/Python_Project/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved
+  713  python app.py
+  714  cd ..
+  715  cd solved
+  716  python app.py
+  717  python app.py --credit_score=750
+  718  python app.py --credit_score=750 ==debt=5000 --income=45000
+  719  python app.pycd ..
+  720  cd ..
+  721  cd ..
+  722  cd solved
+  723  cd 01_Adding_Fire_to_the_loan_qualifier_app
+  724  cd solved
+  725  python app.py --credit_score=750 --debt=3000 --income=8000
+  726  cd ..
+  727  cd unsolved
+  728  python app.py
+  729  python app.py
+  730  python app.py
+  731  python app.py --credit_score=750
+  732  python app.py --credit_score=750
+  733  python app.py credit_score=450
+  734  python app.py --credit_score=745 debt=3000 --income=50000
+  735  python app.py --credit_score=750 --debt=3000 --income=50000
+  736  python app.py --credit_score=600 --debt=5000 --income=45000
+  737   pip install questionary
+  738  cd desktop
+  739  cd ..
+  740  cd ..
+  741  cd ..
+  742  cd ..
+  743  python dialog.py
+  744  python dialog.py
+  745  python dialog.py
+  746  python dialog.py
+  747  cd ~
+  748  cd /Users/thomas/Desktop/FinTech_Homework/Python_Project/02_Adding_questionary_to_Loan_Qualifier/Unsolved
+  749  python app.py --credit_score=750 --debt=5000 --income=20000
+  750  python app.py --credit_score=750 --debt=5000 --income=20000
+  751  python app.py
+  752  python app.py
+  753  python app.py
+  754  python app.py
+  755  python app.py
+  756  python app.py
+  757  cd ~
+  758  conda deactivate
+  759  cd ~
+  760  git config --global user.name thomas leahy
+  761  git config -- global user.email thomasleahy6@gmail.com
+  762  git config --global user.name surdano
+  763  git config --global user.name thomas leahy
+  764  git config --global user.name @ surdano
+  765  git config -- global user.email thomasleahy6@gmail.com
+  766  git config list
+  767  git config --global user.name "Thomas Leahy"
+  768  git config user.name @surdano
+  769  git config user.name thomas leahy
+  770  git list
+  771  git config list
+  772  $ git config --global user.name Thomas Leahy
+  773  git config --global user.name Thomas Leahy
+  774  git config --global user.email Thomasleahy6@gmail.com
+  775  git config --list
+  776  git clone git@github.com:Surdano/Test_Repo.git
+  777  cd /Users/thomas/Desktop/git/test-repo
+  778  git status
+  779  git add README.md
+  780  git status
+  781  touch new_file.txt
+  782  ls
+  783  git status
+  784  git add new_file.text
+  785  git add new_file.txt
+  786  git status
+  787  git commit -m "Edited README.md and added new text file"
+  788  git status
+  789  git push
+  790  git status
+  791  git push
+  792  git -m
+  793  git --help
+  794  git switch main
+  795  git pull
+  796  git status
+  797  git push
+  798  cd ..
+  799  git clone git@github.com:Surdano/Test_Repo.git
+  800  git add new_file.txt
+  801  touch new_file.txt
+  802  cd test_repo
+  803  pwd
+  804  ls
+  805  git status
+  806  git add README.md
+  807  git status
+  808  git add new_file.txt
+  809  git status
+  810  git commit -m "Edited readme and added new text file"
+  811  git status
+  812  git push
+  813  git status
+  814  cd ~
+  815  git clone git@github.com:Surdano/readme_test.git
+  816  conda deactivate
+  817  cd /Users/thomas/Desktop/FinTech_Challenges/Starter_Code 2/loan_qualifier_app
+  818  pwd
+  819  cd Desktop/FinTech_Challenges/Starter_Code 2/loan_qualifier_app
+  820  cd desktop
+  821  cd FinTech_Challenges
+  822  cd ~
+  823  cd /Users/thomas/Desktop/FinTech_Challenges/Starter_Code_2/loan_qualifier_app
+  824  cd Desktop/FinTech_Challenges/Starter_Code_2/loan_qualifier_app
+  825  cd desktop/FinTech_challenges/Starter_Code_2
+  826  cd desktop
+  827  cd FinTech_Challenges
+  828  cd Starter_Code_2
+  829  ls
+  830  cd ~
+  831  cd /Users/thomas/Desktop/FinTech_Challenges/Starter_Code 2/loan_qualifier_app
+  832  cdf /Users/thomas/Desktop/FinTech_Challenges/Starter_Code_2/loan_qualifier_app
+  833  cd /Users/thomas/Desktop/FinTech_Challenges/Starter_Code_2/loan_qualifier_app
+  834  python app.py
+  835  git clone git@github.com:Surdano/Loan_Qualifier_App.git
+  836  git pull
+  837  git pull git@github.com:Surdano/Loan_Qualifier_App.git
+  838  cd ~
+  839  cd desktop
+  840  cd gitrepo
+  841  cd Loan_qualifier_app
+  842  git pull
+  843  ls
+  844  git clone git@github.com:Surdano/Loan_Qualifier_App.git
+  845  cd ..
+  846  cd ..
+  847  cd FinTech_challenges
+  848  git status
+  849  ls
+  850  git add
+  851  cd ..
+  852  cd ..
+  853  cd ..
+  854  cd ..
+  855  cd ..
+  856  cd ..
+  857  cd desktop
+  858  ls
+  859  cd thomas
+  860  cd desktop
+  861  cd gitrepo
+  862  ls
+  863  cd loan_qualifier_app
+  864  git status
+  865  git add
+  866  git add .
+  867  git status
+  868  git help
+  869  git commit -m "Initial upload of files. Functional but incomplete"
+  870  git status
+  871  git push
+  872  python app.py
+  873  git add .
+  874  git status
+  875  git restore --staged .ds_Store, app.py, qualifier/utils/fileio.py
+  876  git status
+  877  git commit -m "Made text changes to readme; Made code changes to app.py, fileio.py"
+  878  git push
+  879  cd ~
+  880  conda deactivate
+  881  pwd
+  882  cd /Users/thomas/Desktop/FinTech_Classwork/ucb-virt-fin-pt-09-2021-u-b
+  883  git pull
+  884  cd ~
+  885  cd /Users/thomas/Desktop/FinTech_Classwork/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities
+  886  ls
+  887  cd 03-Financial-Analysis-Pandas
+  888  conda activate dev
+  889  jupyter lab
+  890  conda deactivate
+  891  cd ~
+  892  conda avtivate dev
+  893  dev
+  894  activate dev
+  895  conda avtivate dev
+  896  dev
+  897  activate dev
+  898  cd /Users/thomas/Desktop/GitRepo/Loan_Qualifier_App
+  899  conda avtivate dev
+  900  conda activate dev
+  901  jupyter lab
+  902  git status
+  903  python app.py
+  904  python app.py
+  905  python app.py
+  906  python app.py
+  907  python app.py
+  908  python app.py
+  909  python app.py
+  910  python app.py
+  911  python app.py
+  912  python app.py
+  913  python app.py
+  914  python app.py
+  915  python app.py
+  916  python app.py
+  917  python app.py
+  918  python app.py
+  919  python app.py
+  920  python app.py
+  921  python app.py
+  922  python app.py
+  923  python app.py
+  924  python app.py
+  925  git .add app.py
+  926  git add app.py
+  927  git add readme.md
+  928  git status
+  929  git add README.md
+  930  git status
+  931  git restore .DS_Store
+  932  git status
+  933  git restore qualifier/.DS_Store
+  934  git status
+  935  git commit
+  936  cd desktop
+  937  cd gitrepo
+  938  cd loan_qualifier_app
+  939  conda activate dev
+  940  git status
+  941  git restore -- staged README.md
+  942  git restore --staged README.md
+  943  git status
+  944  git commit -m "Updated code for increased usability"
+  945  git status
+  946  git push
+  947  git add README.md
+  948  git status
+  949  git commit -m "Added picture and screen shot"
+  950  git status
+  951  git push
+  952  git add qualifier
+  953  git add data
+  954  git status
+  955  git restore --staged qualifier/.DS_Store
+  956  git status
+  957  conda deactivate
+  958  cd ~
+  959  conda activate dev
+  960  cd /Users/thomas/Desktop/GitRepo/Loan_Qualifier_App
+  961  git add README.md
+  962  git status
+  963  git commit -m "Added addictional text and screenshots"
+  964  git push
+  965  git pull README.md
+  966  git pull
+  967  conda activate dev
+  968  cd /Users/thomas/Desktop/FinTech_Classwork/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/01-Financial-Programming-Python/1
+  969  cd ..
+  970  jupyter lab
+  971  ls
+  972  cd ..
+  973  ls
+  974  cd \t03-Financial-Analysis-Pandas
+  975  jupyter lab
+  976  ls
+  977  cd 2
+  978  jupyter lab
+  979  cd ~
+  980  cd desktop
+  981  cd Gitrepo
+  982  ls
+  983  cd Loan_Qualifier_App
+  984  git status
+  985  git pull
+  986  git config pull.rebase false
+  987  git status
+  988  git pull.rebase true
+  989  git status
+  990  git pull
+  991  git status
+  992  git restore .DS_Store
+  993  git status
+  994  git restore qualifier/.DS_Store
+  995  git status
+  996  git add README.md
+  997  git status
+  998  git commit -m "Added additional text and screenshots"
+  999  git status
+ 1000  git pull
+ 1001  conda deactivate
+ 1002  conda activate dev
+ 1003  cd desktop
+ 1004  cd gitrepo
+ 1005  cd loan_qualifier_app
+ 1006  git status
+ 1007  git commit -m "minor changes"
+ 1008  git status
+ 1009  git push
+ 1010  history 50 > terminal_history.txt
+ 1011  history 50 < terminal_history.txt
+ 1012  python app.py
+ 1013  git status
+ 1014  git add README.md
+ 1015  git add app.py
+ 1016  git status
+ 1017  git commit -m "Finalized app and Readme"
+ 1018  git push
+ 1019  git add qualifier
+ 1020  git status
+ 1021  git commit -m "Finalized application"
+ 1022  git push
+ 1023  git add data
+ 1024  git status
+ 1025  git add data
+ 1026  git status
+ 1027  git commit -m "Finalized CSV file"
+ 1028  git push
+ 1029  history 50 > terminal_history.txt
+ 1030  git add terminal_history.txt
+ 1031  git status
+ 1032  git restore --staged terminal_history.txt
+ 1033  git status
+ 1034  cd ..
+ 1035  ls
+ 1036  cd Loan_Qualifier_App
+ 1037  ls
+ 1038  history 50 = terminal_history.txt
+ 1039  history 50 == terminal_history.txt
+ 1040  history 50 < terminal_history.txt
