@@ -37,11 +37,23 @@ To use the loan qualifier application simply clone the repository and run the **
 ```python
 python app.py
 ```
+It will then promt the user to input the following .csv file path:
 
-Upon launching the loan qualifier application you will be greeted with the following prompts.
+```python
+data/daily_rate_sheet.csv
+```
+
+Upon launching the loan qualifier application the user will be greeted with the following prompts:
 
 ![Screen shot of promts with examples as enrties](https://user-images.githubusercontent.com/89755088/136319694-5f0d1290-b696-4d9b-bd2d-298eac9d56da.png) 
 
+It then leads the user through additional promts to save the results as a .csv file:
+
+![Screen shot of promts to save returned results as a .csv](https://user-images.githubusercontent.com/89755088/136486007-0ef8eb9e-763f-4eae-9876-214d57dae80b.png)
+
+Here is the application run through all promts:
+
+![Screen shot of all application promts and return](https://user-images.githubusercontent.com/89755088/136484577-37ad8535-6e32-4a75-9873-91041c141c5d.png)
 
 
 ---
